@@ -1,0 +1,2 @@
+Multi threaded sorting algorith?
+Haven't really done much with multi-threading so could be interesting.
